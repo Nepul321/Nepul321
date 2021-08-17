@@ -21,7 +21,7 @@
     Python classes - https://github.com/Nepul321/Classes-in-python
   </li>
     <li>
-    Hangman with python - https://github.com/Nepul321/Hangman-game-with-pygame
+    Django auth system - https://github.com/Nepul321/Django-auth-system
   </li>
     <li>
     Crypto currency price app with django - https://github.com/Nepul321/Crypto-currency-prices
