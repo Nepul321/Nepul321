@@ -26,4 +26,7 @@
     <li>
     Crypto currency price app with django - https://github.com/Nepul321/Crypto-currency-prices
   </li>
+   <li>
+    URL shortener with django - https://github.com/Nepul321/Django-url-shortener
+  </li>
  </ul>
