@@ -1,11 +1,6 @@
 # Hello everyone!! I am Nepul Kahandawa!!!
 
-<p>
-  I really like to code Python, Java and Javascript. I mostly do web development, for web development I mostly use the python full stack web framework Django.
- </p>
- <p>
-  With Django I normally use Vanilla javascript, Jquery, Bootstrap and Tailwind css. For the database I use sqlite3 in development and Postgresql or Mysql in production.
- </p>
+<p>I am Nepul and I really like web development. I mostly use Django, Javascript, Bootstrap and Postgresql for web development.</p>
  
  
  <h3>Some of my repos</h3>
