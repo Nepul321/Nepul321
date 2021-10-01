@@ -1,8 +1,5 @@
 # Hello everyone!! I am Nepul Kahandawa!!!
 
-<p>I am Nepul and I really like web development. I mostly use Django, Javascript, Bootstrap and Postgresql for web development.</p>
- 
- 
  <h3>Some of my repos</h3>
  
  <ul>
