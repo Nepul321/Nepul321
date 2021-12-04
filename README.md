@@ -1,8 +1,8 @@
-# Hello everyone!! I am Nepul Kahandawa!!!
+# Hello everyone!!
 
  I am a full stack web developer primarily focused on Django, Bootstrap, Javascript, React.
  
-### Top Technologies
+## Top Technologies
  
  - Django Rest Framework
  - Django with (Postgresql, MongoDb, Mysql)
@@ -12,7 +12,7 @@
  - Linode (Object Storages)
  - Python
 
-### Some repos
+## Some repositories
 
 - Django-Crypto-Currency-Prices - https://github.com/Nepul321/Django-Crypto-currency-prices
 - Django-Project-Starter-Code - https://github.com/Nepul321/djangoprojectstartercode
