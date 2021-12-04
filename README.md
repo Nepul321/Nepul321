@@ -1,24 +1,22 @@
 # Hello everyone!! I am Nepul Kahandawa!!!
 
- <h3>Some of my repos</h3>
+ I am a full stack web developer primarily focused on Django, Bootstrap, Javascript, React.
  
- <ul>
-  <li>
-    Java String methods - https://github.com/Nepul321/Java-String-Methods
-  </li>
-    <li>
-    Portfolio website with Tailwind css - https://github.com/Nepul321/Tailwind_css_portfolio_website
-  </li>
-    <li>
-    Python classes - https://github.com/Nepul321/Classes-in-python
-  </li>
-    <li>
-    Django auth system - https://github.com/Nepul321/Django-auth-system
-  </li>
-    <li>
-    Crypto currency price app with django - https://github.com/Nepul321/Crypto-currency-prices
-  </li>
-   <li>
-    URL shortener with django - https://github.com/Nepul321/Django-url-shortener
-  </li>
- </ul>
+### Top Technologies
+ 
+ - Django Rest Framework
+ - Django with (Postgresql, MongoDb, Mysql)
+ - React JS
+ - Javascript
+ - HTML, CSS
+ - Linode (Object Storages)
+ - Python
+
+### Some repos
+
+- Django-Crypto-Currency-Prices - https://github.com/Nepul321/Django-Crypto-currency-prices
+- Django-Project-Starter-Code - https://github.com/Nepul321/djangoprojectstartercode
+- Django-React-MongoDB - https://github.com/Nepul321/Django-React-MongoDb
+- Django-Auth-System - https://github.com/Nepul321/Django-auth-system
+- Django-URL-Shortner - https://github.com/Nepul321/Django-url-shortener
+- Django-Real-Estate - https://github.com/Nepul321/Real-estate-Django
