@@ -11,6 +11,7 @@
  - HTML, CSS
  - Linode (Object Storages)
  - Python
+ - Bootstrap
 
 ## Some repositories
 
