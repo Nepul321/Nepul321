@@ -21,3 +21,4 @@
 - Django-Auth-System - https://github.com/Nepul321/Django-auth-system
 - Django-URL-Shortner - https://github.com/Nepul321/Django-url-shortener
 - Django-Real-Estate - https://github.com/Nepul321/Real-estate-Django
+- Affiliate website builder - https://github.com/Nepul321/Affiliate-website-builder
