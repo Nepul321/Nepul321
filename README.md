@@ -15,11 +15,11 @@
 
 ## Some repositories
 
-- Django-Crypto-Currency-Prices - https://github.com/Nepul321/Django-Crypto-currency-prices
-- Django-Project-Starter-Code - https://github.com/Nepul321/djangoprojectstartercode
-- Django-React-MongoDB - https://github.com/Nepul321/Django-React-MongoDb
-- Django-Auth-System - https://github.com/Nepul321/Django-auth-system
-- Django-URL-Shortner - https://github.com/Nepul321/Django-url-shortener
-- Django-Real-Estate - https://github.com/Nepul321/Real-estate-Django
+- Crypto Currency Prices - https://github.com/Nepul321/Django-Crypto-currency-prices
+- Django Project Starter code - https://github.com/Nepul321/djangoprojectstartercode
+- Django X React JS X Mongo DB - https://github.com/Nepul321/Django-React-MongoDb
+- Authentication System - https://github.com/Nepul321/Django-auth-system
+- URL Shortening Service - https://github.com/Nepul321/Django-url-shortener
+- Real-Estate Website - https://github.com/Nepul321/Real-estate-Django
 - Affiliate website builder - https://github.com/Nepul321/Affiliate-website-builder
 - TweetBook - https://github.com/Nepul321/TweetBook
