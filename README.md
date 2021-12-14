@@ -16,6 +16,7 @@
 ## Some repositories
 
 - Crypto Currency Prices - https://github.com/Nepul321/Django-Crypto-currency-prices
+- Django X Youtube API - https://github.com/Nepul321/Django-and-Python-with-Youtube-API
 - Django Project Starter code - https://github.com/Nepul321/djangoprojectstartercode
 - Django X React JS X Mongo DB - https://github.com/Nepul321/Django-React-MongoDb
 - Authentication System - https://github.com/Nepul321/Django-auth-system
