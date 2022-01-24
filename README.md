@@ -14,7 +14,7 @@
  - Python
  - Bootstrap
 
-## Some repositories
+## Some of my repositories
 
 - Crypto Currency Prices - https://github.com/Nepul321/Django-Crypto-currency-prices
 - Django X Youtube API - https://github.com/Nepul321/Django-and-Python-with-Youtube-API
