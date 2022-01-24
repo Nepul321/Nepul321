@@ -25,4 +25,5 @@
 - Affiliate website builder - https://github.com/Nepul321/Affiliate-website-builder
 - TweetBook - https://github.com/Nepul321/TweetBook
 - Video membership site - https://github.com/Nepul321/Video-membership
-- Todos api - https://github.com/Nepul321/Todos-API
+- Todos API - https://github.com/Nepul321/Todos-API
+- Blog API - https://github.com/Nepul321/BlogAPI
