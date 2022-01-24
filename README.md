@@ -8,6 +8,7 @@
  - Django with (Postgresql, MongoDb, Mysql)
  - React JS
  - Javascript
+ - Heroku
  - HTML, CSS
  - Linode (Object Storages)
  - Python
