@@ -1,6 +1,6 @@
 # Hello everyone!!
 
- I am a full stack web developer primarily focused on Django, Bootstrap, Javascript, React.
+ I am a full stack web developer primarily focused on Django, Bootstrap, Javascript and React.
  
 ## Top Technologies
  
