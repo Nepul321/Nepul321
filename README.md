@@ -28,3 +28,4 @@
 - Todos API - https://github.com/Nepul321/Todos-API
 - Blog API - https://github.com/Nepul321/BlogAPI
 - PhotoBook - https://github.com/Nepul321/PhotoBook
+- DjangoReactRedux - https://github.com/Nepul321/DjangoReactRedux
