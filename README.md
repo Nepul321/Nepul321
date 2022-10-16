@@ -2,7 +2,7 @@
 
  I am a full stack web developer primarily focused on Django, Bootstrap, Javascript and React.
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nepul321)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nepul321&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 ## Top Technologies
  
