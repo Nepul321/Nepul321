@@ -2,6 +2,7 @@
 
  I am a full stack web developer primarily focused on Django, Bootstrap, Javascript and React.
  
+ 
  [![Nepul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nepul321&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
 ## Top Technologies
@@ -15,6 +16,7 @@
  - Linode (Object Storages)
  - Python
  - Bootstrap
+
 
 ## Some of my repositories
 
