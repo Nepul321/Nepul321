@@ -1,20 +1,3 @@
-# Hello everyone!!
-
- I am a full stack web developer primarily focused on Django, Bootstrap, Javascript and React.
- 
-## Top Technologies
- 
- - Django Rest Framework
- - Django with (Postgresql, MongoDb, Mysql)
- - React JS
- - Javascript
- - Heroku
- - HTML, CSS
- - Linode (Object Storages)
- - Python
- - Bootstrap
-
-
 ## Some of my repositories
 
 - Crypto Currency Prices - https://github.com/Nepul321/Django-Crypto-currency-prices
